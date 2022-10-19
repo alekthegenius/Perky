@@ -1,6 +1,7 @@
 ![Perky](https://user-images.githubusercontent.com/106783234/196711550-a376a2ea-8e45-4c37-94d7-57caf533f637.png)
 # Perky
-Keep Your System Perky With This Handy System Tool
+Keep Your System Perky With This Handy System Tool.
+Based on the [CaffineKit Library](https://github.com/jrr6/CaffeineKit), this app will suite the needs of those looking for a reliable, lightweight and simple utility for keeping your system awake. 
 
 #### Screenshots
 
