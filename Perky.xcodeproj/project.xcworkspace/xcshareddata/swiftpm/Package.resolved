@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "CaffeineKit",
+        "repositoryURL": "https://github.com/jrr6/CaffeineKit",
+        "state": {
+          "branch": null,
+          "revision": "5c027b9076fd91711e436c5b7bf5074900845376",
+          "version": "0.3.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
