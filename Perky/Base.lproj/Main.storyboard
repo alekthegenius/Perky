@@ -385,7 +385,7 @@
                                     <constraint firstAttribute="height" constant="16" id="UKs-Uq-IMX"/>
                                     <constraint firstAttribute="width" constant="142" id="jHa-Wg-b8H"/>
                                 </constraints>
-                                <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="© Alek Vasek 2022" id="au8-gY-Veh">
+                                <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="© Alek Vasek 2023" id="au8-gY-Veh">
                                     <font key="font" metaFont="system"/>
                                     <color key="textColor" name="systemGrayColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
@@ -464,7 +464,7 @@
                                 <constraints>
                                     <constraint firstAttribute="height" constant="16" id="xhU-tR-May"/>
                                 </constraints>
-                                <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="Copyright ©2022 Alek Vasek" id="K5G-IK-R8D">
+                                <textFieldCell key="cell" lineBreakMode="clipping" alignment="center" title="Copyright ©2023 Alek Vasek" id="K5G-IK-R8D">
                                     <font key="font" metaFont="smallSystem"/>
                                     <color key="textColor" name="secondaryLabelColor" catalog="System" colorSpace="catalog"/>
                                     <color key="backgroundColor" name="textBackgroundColor" catalog="System" colorSpace="catalog"/>
