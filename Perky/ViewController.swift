@@ -74,7 +74,7 @@ class ViewController: NSViewController {
     
     @IBAction func stopButton(_ sender: NSButton) {
         caf.stop()
-        
+        status.stringValue = "Stopped Caffination"
     }
     
     @IBAction func Caffeniate(_ sender: NSButton) {
